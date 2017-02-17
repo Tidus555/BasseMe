@@ -1,0 +1,99 @@
+body {
+	background-image: url('INSERT LINK HERE');
+	font-family: arial;
+	}
+
+h1 {
+	text-align: center; 
+	color: #966F33;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px ; 
+	}
+
+h2 {
+	text-align: center; 
+	color : #966F33;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px ; 
+	}
+
+h4 {
+	text-align: center; 
+	color: #335B96;
+
+}
+
+a {
+	text-decoration: none;
+	color : #D6D6D6;
+	font-size: 16px;
+	}
+
+a:hover {
+	color:#000000;	
+}
+
+.fa {
+	font-size: 110px;
+}
+
+#NEWS:hover {
+	color: #1a171b;
+}
+
+#FB:hover {
+	color: #4b66a0;
+}
+
+#IG:hover {
+	color: #DE3670;
+}
+
+#TW:hover {
+	color: #1DA1F2;
+}
+
+.avis	{
+	border-radius: 50%;
+}
+
+.blabla {
+	font-size: 13px;
+}
+
+.header {
+	background-image: url('Images/funkunlimited.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 5px;
+}
+
+.btn {
+	margin-right: 15px;
+	margin-bottom: 5px;
+}
+
+#prout {
+	padding-top: 50px;
+}
+
+.collapse {
+	text-align: center;	
+}
+
+.avistotal {
+	margin-bottom: 25px;
+}
+
+.alibi {
+	padding-top: 75px;
+}
+
+
+
+
+
+
+
